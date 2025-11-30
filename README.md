@@ -1,6 +1,6 @@
-# GTag Hub — Simple Music Website
+# GTag Hub — Simple Website
 
-This small, static website template is a Gorilla Tag community hub with sections for a hero, features, maps & mods, about, and contact.
+This small, static website template is a Gorilla Tag community hub with sections.
 
 Files:
 - `main.html` — main HTML entry point
@@ -29,3 +29,4 @@ Start-Process 'http://localhost:8000/main.html'
 ```
 
 License: MIT
+
